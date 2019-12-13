@@ -1,7 +1,10 @@
-body{
-    font-family: sans-serif;
+h1{
+    font-family: 'Domine', serif;
 }
 
+p{
+    font-family: 'Quicksand', sans-serif;
+}
 .header{
     color: white;
     background-color: darkblue;
